@@ -1,1 +1,3 @@
-hello! git
+hello! GitHub!
+
+I'm learning operation of Git.
