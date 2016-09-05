@@ -1,3 +1,4 @@
 hello! GitHub!
 
 I'm learning operation of Git.
+After generating new branch named as "branch_a", I'm working on branch_a.
